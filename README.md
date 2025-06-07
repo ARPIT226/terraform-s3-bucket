@@ -1,6 +1,6 @@
 ## Created a organization "myworkspace227"
 
-## Created a workspace "terraform-s3-bucket"
+## Created a workspace "terraform-s3-bucket" under organization
 <img width="752" alt="image" src="https://github.com/user-attachments/assets/58597be9-3e5c-43b9-9014-3132cf1a00ad" />
 
 ## Set variables - security credentials as sensitive and bucket name (variable) and create a run
